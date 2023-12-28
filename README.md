@@ -1,4 +1,4 @@
-Website Link - [https://gentle-swan-c1b2b7.netlify.app/](https://shiny-squirrel-4168dc.netlify.app/)
+Website Link - https://shiny-squirrel-4168dc.netlify.app/
 
 # AI Article Summarizer
 
